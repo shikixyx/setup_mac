@@ -27,6 +27,15 @@
 
 * プラグイン入れまくるだけ
 
+### Finder
+
+* 隠しファイルを表示させる
+
+```sh
+$ defaults write com.apple.finder AppleShowAllFiles TRUE
+$ killall Finder
+```
+
 ### その他のアプリ
 
 * better touch tool
