@@ -18,10 +18,16 @@
 * `brew bundle --global`
 * prezto:https://github.com/sorin-ionescu/prezto
 * fzfの設定:https://github.com/junegunn/fzf
+  * https://qiita.com/kompiro/items/a09c0b44e7c741724c80
 * enhancd:https://github.com/b4b4r07/enhancd
   * だけど、実際はpreztoを使えるので、https://github.com/belak/prezto-contrib ここから
   * 設定ファイルはhttps://github.com/sorin-ionescu/prezto/tree/master/runcoms　ここ
 
+### VSCode
+
+* プラグイン入れまくるだけ
+
 ###　その他のアプリ
 
 * better touch tool
+
