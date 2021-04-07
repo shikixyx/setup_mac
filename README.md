@@ -16,8 +16,11 @@
 ### アプリやツールをインストール
 
 * `brew bundle --global`
-* prezto
-  * https://github.com/sorin-ionescu/prezto
+* prezto:https://github.com/sorin-ionescu/prezto
+* fzfの設定:https://github.com/junegunn/fzf
+* enhancd:https://github.com/b4b4r07/enhancd
+  * だけど、実際はpreztoを使えるので、https://github.com/belak/prezto-contrib ここから
+  * 設定ファイルはhttps://github.com/sorin-ionescu/prezto/tree/master/runcoms　ここ
 
 ###　その他のアプリ
 
